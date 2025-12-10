@@ -39,7 +39,7 @@ org.h2.message.DbException: Wrong user name or password [28000-232]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
-	at com.kartikay.sales_order_management_api.SalesOrderManagementApiApplication.main(SalesOrderManagementApiApplication.java:11)
+	at com.sales_order_management_api.SalesOrderManagementApiApplication.main(SalesOrderManagementApiApplication.java:11)
 Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-232]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:522)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
@@ -85,7 +85,7 @@ org.h2.message.DbException: Wrong user name or password [28000-232]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
-	at com.kartikay.sales_order_management_api.SalesOrderManagementApiApplication.main(SalesOrderManagementApiApplication.java:11)
+	at com.sales_order_management_api.SalesOrderManagementApiApplication.main(SalesOrderManagementApiApplication.java:11)
 Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-232]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:522)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
@@ -131,7 +131,7 @@ org.h2.message.DbException: Wrong user name or password [28000-232]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
-	at com.kartikay.sales_order_management_api.SalesOrderManagementApiApplication.main(SalesOrderManagementApiApplication.java:11)
+	at com.sales_order_management_api.SalesOrderManagementApiApplication.main(SalesOrderManagementApiApplication.java:11)
 Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-232]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:522)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
@@ -177,7 +177,7 @@ org.h2.message.DbException: Wrong user name or password [28000-232]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
-	at com.kartikay.sales_order_management_api.SalesOrderManagementApiApplication.main(SalesOrderManagementApiApplication.java:11)
+	at com.sales_order_management_api.SalesOrderManagementApiApplication.main(SalesOrderManagementApiApplication.java:11)
 Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-232]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:522)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)

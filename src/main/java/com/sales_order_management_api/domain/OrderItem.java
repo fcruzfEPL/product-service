@@ -1,4 +1,4 @@
-package com.kartikay.sales_order_management_api.domain;
+package com.sales_order_management_api.domain;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;

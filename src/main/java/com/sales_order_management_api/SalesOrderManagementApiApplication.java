@@ -1,4 +1,4 @@
-package com.kartikay.sales_order_management_api;
+package com.sales_order_management_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
